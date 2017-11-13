@@ -25,5 +25,5 @@ What's the jail for people who like play on words?
 
 It's the
 
-## Punitantiary
+## Punitentiary
 

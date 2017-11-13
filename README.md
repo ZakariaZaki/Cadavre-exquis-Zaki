@@ -7,3 +7,8 @@ PUSH IT TO THE LIMIT
 ## Ik ging slapen met een doezoe, werd wakker met een ton
 ## En vaak denk ik aan vroeger, ik weet waar het begon
 ## Nu denk ik aan miljoenen, nee vraag me niet waarom
+
+We still editing
+These git readme's
+Everyday in nano
+And terminal pushing.

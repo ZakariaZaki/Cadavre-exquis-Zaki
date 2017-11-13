@@ -15,3 +15,8 @@ These git readme's
 Everyday in nano
 
 And terminal pushing.
+
+## In every job that must be done
+## There is an element of fun
+## You find the fun and snap!
+## **The job's a game**

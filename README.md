@@ -42,12 +42,12 @@ We love [GitHub](https://github.com) so much :heart:
 It will be so *fun* when everybody will use it and we should manage `100` conflicts.
 
 Master and branches power
->>>>>>> d86053a0b96db509aba3b0be87e8f334c3b41f66 
- 
- And while reading all those comments... 
- 
- One could see the irony. 
- 
+>>>>>>> d86053a0b96db509aba3b0be87e8f334c3b41f66
+
+ And while reading all those comments...
+
+ One could see the irony.
+
  Just like the universe, those were empty.
 
 
@@ -58,3 +58,6 @@ I'm a gangsta I'm a straight up G,
 The gangster life is the life for me.
 
 Written by Maurice the Shrimp
+
+
+##Maurice the Shrimp I will eat you you delicious fuck

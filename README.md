@@ -9,6 +9,9 @@ PUSH IT TO THE LIMIT
 ## Nu denk ik aan miljoenen, nee vraag me niet waarom
 
 We still editing
+
 These git readme's
+
 Everyday in nano
+
 And terminal pushing.

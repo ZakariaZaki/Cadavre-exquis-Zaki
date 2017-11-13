@@ -33,5 +33,13 @@ She was part of the *YoRHa* group
 > This group was created for mankind's salavation after being invaded from space
 
 
+<<<<<<< HEAD
 ## JOKES !!!
 Why don't programmers like nature? It has too many bugs.
+=======
+We love [GitHub](https://github.com) so much :heart:
+
+It will be so *fun* when everybody will use it and we should manage `100` conflicts.
+
+Master and branches power
+>>>>>>> d86053a0b96db509aba3b0be87e8f334c3b41f66

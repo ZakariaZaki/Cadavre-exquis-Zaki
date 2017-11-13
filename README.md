@@ -49,3 +49,12 @@ Master and branches power
  One could see the irony. 
  
  Just like the universe, those were empty.
+
+
+
+
+I'm a gangsta I'm a straight up G,
+
+The gangster life is the life for me.
+
+Written by Maurice the Shrimp

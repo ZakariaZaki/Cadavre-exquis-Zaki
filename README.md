@@ -11,3 +11,6 @@ PUSH IT TO THE LIMIT
 ## En vaak denk ik aan vroeger, ik weet waar het begon
 ## Nu denk ik aan miljoenen, nee vraag me niet waarom
 >>>>>>> 137b163d7accf4d31a6f1634e804a32b49010661
+
+
+Lorsque l'on se cogne la tête contre un pot et que cela sonne creux, ça n'est pas forcément le pot qui est vide.
